@@ -75,8 +75,13 @@ The application enables real-time guest identification, logging, and monitoring,
 ---
 
 ## 🖼 Screenshots
-
-Screenshots are provided to demonstrate the application flow and features.
+<img width="1246" height="708" alt="image" src="https://github.com/user-attachments/assets/07984286-0087-45fa-b68a-58797c64919e" />
+<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/52d93dec-c8b8-4c79-8adb-77c25fd34bb5" />
+<img width="1920" height="1080" alt="Panic Button" src="https://github.com/user-attachments/assets/fbfb0459-ddcc-4e3b-8a96-7b11ca68aa84" />
+<img width="1920" height="1080" alt="form input tamu" src="https://github.com/user-attachments/assets/26799b78-b796-4bb6-a4fa-2107a604244c" />
+<img width="1065" height="595" alt="image" src="https://github.com/user-attachments/assets/64b5917c-4302-4275-9d78-bc4797da5b93" />
+<img width="1509" height="843" alt="image" src="https://github.com/user-attachments/assets/82eeaf53-b31d-47cd-a48a-1067d0c0b378" />
+<img width="1500" height="752" alt="Dashboard Web" src="https://github.com/user-attachments/assets/984f4d93-17e3-4ad0-9523-2faa0b859e95" />
 
 ---
 
